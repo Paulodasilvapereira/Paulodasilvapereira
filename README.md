@@ -1,4 +1,4 @@
-## Olá, eu sou o Paulo da Silva
+## Olá, sou o Paulo da Silva
 
 - Hoje trabalho com suporte de operações.
 - Tecnólogo em Análise e Desenvolvimento de Sistemas - Graduando.

@@ -1,7 +1,7 @@
 ## Olá, Bem-vindo!
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas - Graduando.
-- HTML5 | CSS3 | Java | MySQL | MongoDB.
+- HTML5 | CSS3 | PHP | Java | MySQL | MongoDB.
 
   <div align="center">
   <a href="https://github.com/Paulodasilvapereira">
@@ -12,6 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Paulo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Paulo-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Paulo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
